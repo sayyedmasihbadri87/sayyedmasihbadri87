@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayyedmasihbadri87
-- 👀 I’m interested in car design, hand drawing,aerodynamic, Electronics, pyhton
+- 👀 I’m interested in python programming, html and css and a little js
 - 🌱 I’m currently learning pyhton 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
